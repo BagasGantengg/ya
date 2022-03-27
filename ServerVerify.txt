@@ -1,0 +1,7 @@
+/AntibanActivated=9404910005945848948848
+/AntibanServersVerify=6489498455848848494
+/Verify=Gameplayer
+/verify=aimbot
+/verify=magicbeta
+/verify=high
+/Backupserveron=fdgf559udf494984hshbshwkhbsvvskvvvskgfcwksjvbsjsvakgfrdxavabjsgjq
